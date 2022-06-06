@@ -1,8 +1,6 @@
 <h1>Beaches in react!</h1>
 
-<P> So this was a project I did with the guidance of a youtube creator of "Code Commerce". This was a tutorial that I used to get more comfortable with 
-  programming in react. </p>
-  
+
   here's the link: https://react-travel-page.vercel.app/
 
 
